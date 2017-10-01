@@ -6,3 +6,7 @@
 *_data/
 *bak/
 *.wav
+backup.bat
+backupFull.bat
+Blank.ftm
+*.7z
