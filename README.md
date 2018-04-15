@@ -12,9 +12,8 @@ These files were stored with a very simplistic method of verison control - a scr
 
 Here are the scripts (usage not recommended; I don't know how they work anymore):
 
-<dl>
-<dt>backup.bat</dt>
-<dd>
+<details>
+<summary>backup.bat</summary>
 <pre lang="batch">
 @echo off
 set /p reason=Backup reason: 
@@ -39,9 +38,9 @@ robocopy %cd%\ %cd%\bak\%foldername%\ /M /MIR /XD BAK
 ::)
 pause
 </pre>
-</dd>
-<dt>backupFull.bat</dt>
-<dd>
+</details>
+<details>
+<summary>backupFull.bat</summary>
 <pre lang="batch">
 @echo off
 set /p reason=Backup reason: 
@@ -66,7 +65,6 @@ robocopy %cd%\ %cd%\bak\%foldername%\ /MIR /XD BAK
 ::)
 pause
 </pre>
-</dd>
-</dl>
+</details>
 
 Note that some older versions had `md bak\%foldername%` and `echo %foldername%: %reason% >> bak\log.txt` swapped, meaning that the message wouldn't be logged the first time.
