@@ -134,7 +134,7 @@ For both albums that were previously present on grantkirkhope.bandcamp.com (note
 <tr><td>Gobi's Valley - Aquatic                               </td> <td> ❌ </td></tr>
 <tr><td>Gobi's Valley - Inside The Pyramid                    </td> <td> ❌ </td></tr>
 <tr><td>Gobi's Valley - Hissup                                </td> <td> ❌ </td></tr>
-<tr><td>Gobi's Valley - King Sandybutt's Tomb                 </td> <td> ❌ </td></tr>
+<tr><td>Gobi's Valley - King Sandybutt's Tomb                 </td> <td> ✅ </td></tr>
 <tr><td>Tomb Time Up!                                         </td> <td> ❌ </td></tr>
 <tr><td>Mad Monster Mansion                                   </td> <td> ✅ </td></tr>
 <tr><td>Mad Monster Mansion - With Church Bells               </td> <td> ✅ </td></tr>
