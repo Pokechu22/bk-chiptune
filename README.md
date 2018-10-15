@@ -130,8 +130,8 @@ For both albums that were previously present on grantkirkhope.bandcamp.com (note
 <tr><td>Boggy's Race Lose Fanfare                             </td> <td> ❌ </td></tr>
 <tr><td>Boggy's Race Win Fanfare                              </td> <td> ❌ </td></tr>
 <tr><td>Gobi's Valley                                         </td> <td> ✅ </td></tr>
-<tr><td>Gobi's Valley - Jinxy's Area                          </td> <td> ❌ </td></tr>
-<tr><td>Gobi's Valley - Aquatic                               </td> <td> ❌ </td></tr>
+<tr><td>Gobi's Valley - Jinxy's Area                          </td> <td> ✅ </td></tr>
+<tr><td>Gobi's Valley - Aquatic                               </td> <td> ✅ </td></tr>
 <tr><td>Gobi's Valley - Inside The Pyramid                    </td> <td> ❌ </td></tr>
 <tr><td>Gobi's Valley - Hissup                                </td> <td> ❌ </td></tr>
 <tr><td>Gobi's Valley - King Sandybutt's Tomb                 </td> <td> ✅ </td></tr>
