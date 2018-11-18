@@ -109,7 +109,7 @@ For both albums that were previously present on grantkirkhope.bandcamp.com (note
 <tr><td>Clanker's Cavern - Aquatic                            </td> <td> ✅ </td></tr>
 <tr><td>Clanker's Cavern - Deep Underwater                    </td> <td> ❌ </td></tr>
 <tr><td>Clanker's Cavern - Inside Clanker                     </td> <td> ✅ </td></tr>
-<tr><td>Clanker's Cavern - Inside Clanker - Aquatic           </td> <td> ❌ </td></tr>
+<tr><td>Clanker's Cavern - Inside Clanker - Aquatic           </td> <td> ✅ </td></tr>
 <tr><td>Clanker's Cavern - Mutie-Snippets Battle              </td> <td> ❌ </td></tr>
 <tr><td>Bubblegloop Swamp                                     </td> <td> ✅ </td></tr>
 <tr><td>Bubblegloop Swamp - Interiors                         </td> <td> ❌ </td></tr>
