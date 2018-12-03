@@ -119,7 +119,7 @@ For both albums that were previously present on grantkirkhope.bandcamp.com (note
 <tr><td>Freezeezy Peak                                        </td> <td> ✅ </td></tr>
 <tr><td>Freezeezy Peak - With Christmas Bells                 </td> <td> ✅ </td></tr>
 <tr><td>Freezeezy Peak - Aquatic                              </td> <td> ✅ </td></tr>
-<tr><td>Freezeezy Peak - Twinklies' Journey                   </td> <td> ❌ </td></tr>
+<tr><td>Freezeezy Peak - Twinklies' Journey                   </td> <td> ✅ </td></tr>
 <tr><td>Christmas Lights On                                   </td> <td> ❌ </td></tr>
 <tr><td>Freezeezy Peak - Inside The Christmas Tree            </td> <td> ❌ </td></tr>
 <tr><td>Freezeezy Peak - Wozza's Cave                         </td> <td> ❌ </td></tr>
